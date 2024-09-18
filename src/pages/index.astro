@@ -6,7 +6,6 @@ import HomeHeroSection from '../components/sections/heros/HomeHeroSection.astro'
 
 import { Icon } from 'astro-icon/components';
 import {
-	AnnouncementBar,
 	Button,
 	CustomerQuoteSection,
 	ThreeColumnTextSection,
@@ -22,8 +21,6 @@ const seo = {
 };
 ---
 
-<Layout>
-	<HomeHeroSection />
 
 <Layout {seo}>
 	<TextAndImageHero reversed>
@@ -137,8 +134,6 @@ const seo = {
 			</Fragment></Button
 		>
 	</CtaCardSection>
-</Layout>
-
 </Layout>
 
 <style>
