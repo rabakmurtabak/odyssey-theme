@@ -6,10 +6,19 @@ export const footerSocials = [
   },
   {
     name: 'TikTok',
-    url: 'https://youtube.com/c/LittleSticks',
+    url: 'https://www.tiktok.com/@ancouragebymin',
     icon: "ic:baseline-tiktok",
   },
-
+  {
+    name: 'WhatsApp',
+    url: 'https://wa.link/mebfzn',
+    icon: "ic:baseline-whatsapp",
+  },
+  {
+    name: 'Telegram',
+    url: 'https://t.me/ancouragebymin',
+    icon: "ic:baseline-telegram",
+  },
 ]
 
 export const footerLists = [
