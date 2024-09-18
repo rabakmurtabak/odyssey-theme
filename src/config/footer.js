@@ -30,10 +30,7 @@ export const footerLists = [
 				title: 'About',
 				slug: '/company/about',
 			},
-			{
-				title: 'Blog',
-				slug: '/blog',
-			},
+
 			{
 				title: 'Contact',
 				slug: '/company/contact',
@@ -41,23 +38,23 @@ export const footerLists = [
 		],
 	},
 	{
-		title: 'Theme',
+		title: 'Something',
 		items: [
 			{
-				title: 'Get Started',
-				slug: '/theme/get-started',
+				title: 'Something',
+				slug: '/',
 			},
 			{
-				title: 'Style Guide',
-				slug: '/theme/style-guide',
+				title: 'Something',
+				slug: '/',
 			},
       {
-        title: 'Theme Setup',
-        slug: '/theme/theme-setup',
+        title: 'Something',
+        slug: '/',
       },
       {
-        title: 'Customizing Odyssey',
-        slug: '/theme/customizing-odyssey',
+        title: 'Something',
+        slug: '/',
       }
 		],
 	},
