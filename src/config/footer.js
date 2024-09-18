@@ -1,8 +1,8 @@
 export const footerSocials = [
   {
-    name: 'Twitter',
+    name: 'TikTok',
     url: 'https://twitter.com/littlesticksdev',
-    icon: "mdi:twitter",
+    icon: "mdi:tiktok",
   },
   {
     name: 'Youtube',
