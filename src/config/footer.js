@@ -1,23 +1,13 @@
 export const footerSocials = [
   {
     name: 'Instagram',
-    url: 'https://twitter.com/littlesticksdev',
+    url: 'https://www.instagram.com/ancouragebymin/',
     icon: "mdi:instagram",
   },
   {
-    name: 'Youtube',
+    name: 'TikTok',
     url: 'https://youtube.com/c/LittleSticks',
-    icon: "mdi:youtube",
-  },
-  {
-    name: 'Github',
-    url: 'https://github.com/littlesticks',
-    icon: "mdi:github",
-  },
-  {
-    name: 'Discord',
-    url: 'https://littlesticks.dev/discord',
-    icon: "ic:baseline-discord",
+    icon: "mdi:tiktok",
   },
 ]
 
